@@ -1,0 +1,241 @@
+{
+  "main": {
+    "name": "Hoshi Seina ",
+    "occupation": "Full-stack developer",
+    "description": "and team leader",
+    "image": "profilepic.jpg",
+    "bio": "As a full-stack developer, I have been collaborating with a variety of companies including small startups and big communities, which has made me intimately familiar with all the stages of the web lifecycle from the initial architecture to final deployment. Recently, I have worked on several cryptocurrency projects piling up great knowledge on blockchain tech. I am also not new to the remote freelancing scene, so I am extremely flexible with my working hours.",
+    "contactmessage": "Write a message, please.",
+    "email": "starwolf0320@gmail.com",
+    "phone": "+1(940) 202 0709",
+    "address": {
+      "street": "Nishishimbashi",
+      "city": "Tokyo",
+      "state": "Japan",
+      "zip": "105-0003"
+    },
+
+    "social": [
+
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/hoshi-seina/",
+        "className": "fa fa-linkedin"
+      },
+
+      {
+        "name": "github",
+        "url": "http://github.com/StarWolf19950320",
+        "className": "fa fa-github"
+      },
+
+      {
+        "name": "github",
+        "url": "http://github.com/StarWolf19950320",
+        "className": "fa fa-google"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Hosei University",
+        "degree": "Bachelor's Degree in Software Engineering",
+        "graduated": "2008 - 2012",
+        "description": "Tokyo, Japan "
+      }
+    ],
+
+    "work": [
+      {
+        "company": "Bitwave",
+        "title": "Blockchain Full-stack Engineer",
+        "years": "2021 - 2022",
+        "description": "Handled the Web3 integration for different wallet connections and contract integrations for multi-chain support, including Ethereum, Binance, Polygon, etc. Rebuilt the Vue.js front-end application in Vue3, TypeScript, and Tailwind CSS. Built a Node.js and TypeScript back-end for handling transaction reports, billing reports, invoicing systems, and more for crypto partners. Utilized Firebase, Firestore, GCP (Big Query, Pub-Sub) handling for database and DevOps.",
+        "tech": "Technologies: Web3.js, Vue, Node.js, TypeScript, Tailwind CSS, React, JavaScript"
+      },
+      {
+        "company": "Escrow Protocol",
+        "title": "Blockchain Full-stack Engineer",
+        "years": "2021 - 2021",
+        "description": "Built a front-end application for minting and staking NFTs using React and Web3.js. Contributed to a contract for NFT registration and redemption with Solidity. Created a POC Vue.js front-end platform for an NFT gallery using Moralis and Vue 3. Worked on the token distribution and migration from BSC to Polygon network using BscScan, PolygonScan API, and Solidity.",
+        "tech": "Technologies: Blockchain, Web3.js, Solidity, Ethers.js, Moralis, React, Vue, JavaScript"
+      },
+      {
+        "company": "Pico Interactive",
+        "title": "Vue.js Developer for a VR Hardware Company",
+        "years": "2021 - 2021",
+        "description": "Built several Vue.js web applications for VR products. Used different UI frameworks like Ant Design or Vuetify based on the project design type. Integrated headless CSM and Butter CMS for pulling the data and assets.",
+        "tech": "Technologies: Vue, Vuex, Vuetify, Butter CMS, Antd"
+      },
+      {
+        "company": "Cave Consulting Inc",
+        "title": "Angular Developer",
+        "years": "2020 - 2021",
+        "description": "Developed an Angular, RxJS, and Angular Material web app for managing user registration for seminars and webinars hosting in Firebase. Created a Node.js back end with Firebase cloud function and Firestore as the database while Google Storage was used as file storage. Took 100% responsibility for the project of planning, architecture, development, and deployment.",
+        "tech": "Technologies: Angular, Firebase, Node.js, JavaScript, MUI (Material UI), Bootstrap, Google API"
+      },
+      {
+        "company": "Ellipsis Health",
+        "title": "Full-stack Developer",
+        "years": "2018 - 2021",
+        "description": "Created a Firebase cloud-function back end with Node.js for the Ellipsis mobile app and web dashboards.Built a front-end visualization dashboard with Vue.js, chart.js, and D3.Constructed an automatic voice call center using Twilio and Node.js together with an NLP API.Created a React front-end admin dashboard for complex table data visualization with user-friendly search features.Used Google Cloud Platform heavily, namely Google Storage, BigQuery, Speech-to-Text API, and Firebase.",
+        "tech": "Technologies: Google Cloud Platform (GCP), React, Vue, Firebase, Node.js"
+      },
+      {
+        "company": "Curb Appeal Tax, Inc",
+        "title": "React.js Firebase developer",
+        "years": "2020 - 2020",
+        "description": "Developed a React, React hook, and Material UI front-end web application for a real estate tax calculation. Wrote Node.js back-end Firebase cloud functions for handling user authentication and Firestore data manipulation. Added Firestore and storage security rules for the database and storage access management.",
+        "tech": "Technologies: React, JavaScript, Node.js, Firebase, MUI (Material UI), Google Maps"
+      },
+      {
+        "company": "Harry Loui",
+        "title": "React Native Developer",
+        "years": "2020 - 2020",
+        "description": "Developed React native mobile app for managing car inspection flow. Managed multi-pages, long inspection form with offline and real-time syncing capability using React Native elements and Firestore. Implemented several camera features to take photos for car inspection with React Native. Built Firebase Cloud function back end, for auto-linking data changes across mobile app form data, Google storage, and Firestore. Built and hosted react front-end website for managing car inspection results.",
+        "tech": "Technologies: React, Android, iOS, Google Cloud Storage, Firebase, React Native"
+      },
+      {
+        "company": "Gelato Network",
+        "title": "Blockchain Full-stack Engineer",
+        "years": "2019 - 2020",
+        "description": "Developed automated trading strategies on Uniswap and QuickSwap. Built smart contract with solidity and deployed using Truffle. Used Flashbots API to fetch block info regarding trading pool and staking. Worked on building trading view, swap modal using React, Next, TypeScript, Webs.js, and Subgraph. Supported limit orders on the Ethereum Mainnet and Polygon (Matic).",
+        "tech": "Technologies: Web3.js, Solidity, Blockchain, Ethers.js, React, Ethereum, JavaScript"
+      },
+      {
+        "company": "Tripcents",
+        "title": "Back-end Developer",
+        "years": "2018 - 2018",
+        "description": "Built back-end APIs using Firebase cloud functions, a real-time database, and cloud messaging. Solved a payment integration problem that required high security and accuracy for different user banks. The central payment system was Dwolla and we used Plaid for the connection bridge. Integrated various third-party APIs for real estate, flight booking, and reservation. Developed a huge cron-job system for performing periodic features on the back-end side without any front-end requests. Structured the database to optimize all the data in a real-time database using MongoDB on AWS EC2. Built a React Native mobile app that integrates geolocational service, payment system, real-time private, and group chat.",
+        "tech": "Technologies: Amazon EC2, Express.js, Firebase, Node.js, JavaScript"
+      },
+      {
+        "company": "Holidu",
+        "title": "Full-stack Developer",
+        "years": "2016 - 2018",
+        "description": "Integrated Redux and MobX on a number of React-based front-end projects for the better state management of React components. Implemented a GraphQL-and-Apollo server for a React-and-Vue.js front-end data query. Built AWS Lambda functions with Node.js and configured an automated Git's pulling and deploying pipeline in AWS using Nginx, PM2, and Bitbucket webhooks. Created a new customized chart library using D3.js and Plotly.js. Embedded a Google tag manager and Google Analytics for the website conversion tracking and the user event tracking. Integrated Vue.js, Vuex, and Vuetify with a Laravel back-end.",
+        "tech": "Technologies: AWS Lambda, GraphQL, Node.js, Vue, React, PHP, JavaScript"
+      },
+      {
+        "company": "Bruce Clay (Japan)",
+        "title": "Web Developer",
+        "years": "2013 - 2016",
+        "description": "Built a front-end widget that is added as a single external script to an HTML page but works as a big library using vanilla JavaScript and jQuery. Implemented a web scrapping and browser controlling app for automated management of sites using Puppeteer and Apify. Optimized the front-end portion to make a fully functional and performant website using Webpack and many other compressing tools like JPEGmini. Integrated Elasticsearch with the existing MySQL for better database handling and performant querying. Implemented a real-time chatting platform-building AI-based chatbot with Socket.IO and Dialogflow. Worked on OOP languages including Python for the first time.",
+        "tech": "Technologies: Amazon S3 (AWS S3), AngularJS, Node.js, React, CSS, jQuery, JavaScript"
+      }
+    ],
+
+    "experience": [
+      {
+        "title": "Node.js Back End | Tripcents",
+        "description": "This is a Node.js back-end API hosted on Firebase. Features: Cloud functions, a real-time database, push notifications. Payment integration with Dwolla and Plaid Third-party APIs (Rome2rio, Getaroom, Booking.com, Hotwire)"
+      },
+      {
+        "title": "React Front-end Work | Holidu",
+        "description": "http://www.holidu.com  For this project, I built the React-based front end and developed the pixel-perfect UI. I also used GraphQL and Apollo Client."
+      },
+      {
+        "title": "Node.js Back End | Casalova",
+        "description": "This is another Node.js back end that I built, but this one uses AWS Lambda functions with Node.js. I also used AWS Cognito, AWS AppSync, and AWS Amplify."
+      }
+    ],
+
+    "skill2": [
+      {
+        "title": "Languages",
+        "description": "GraphQL, JavaScript, TypeScript, PHP, Python, Solidity, CSS"
+      },
+      {
+        "title": "Frameworks",
+        "description": "Bootstrap, Redux, Angular, AngularJS, Express.js, React Native, MUI (Material UI), Jest, Django, Vuetify, Tailwind CSS"
+      },
+      {
+        "title": "Libraries/APIs",
+        "description": "jQuery, MobX, Vue, Node.js, React, Web3.js, Google Maps, Google API, Vuex, Antd, AWS Amplify"
+      },
+      {
+        "title": "Paradigms",
+        "description": "Functional Programming, Testing"
+      },
+      {
+        "title": "Platforms",
+        "description": "AWS Lambda, Amazon EC2, Firebase, Docker, Blockchain, Linux, Google Cloud Platform (GCP), iOS, Android, Ethereum"
+      },
+      {
+        "title": "Storage",
+        "description": "MongoDB, MySQL, PostgreSQL, Amazon S3 (AWS S3), Google Cloud Storage"
+      },
+      {
+        "title": "Other",
+        "description": "Front-end Development, Front-end, Payment APIs, Enzyme, Butter CMS, Ethers.js, Moralis"
+      },
+      {
+        "title": "Tools",
+        "description": "Mocha, Atom, GitHub, Bitbucket, Jira, Slack, AWS AppSync"
+      }
+
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      
+
+      {
+        "title": "Resume Website",
+        "category": "StarWolf resume",
+        "image": "hoshiseina_introduction.jpg",
+        "url": "#"
+      },
+
+      {
+        "title": "Holidu",
+        "category": "React Front-end Work",
+        "image": "holidu.jpg",
+        "url": "http://www.holidu.com"
+      },
+
+      {
+        "title": "Game-Apps",
+        "category": "React Front-end Work",
+        "image": "gameapp_intro.jpg",
+        "url": "https://thisisaarush.github.io/GameHeaven/"
+      
+      },
+
+      {
+        "title": "Dotonline",
+        "category": "React Front-end Work",
+        "image": "dotonline.jpg",
+        "url": "https://silly-brahmagupta-e90f64.netlify.app/"
+      },
+
+      {
+        "title": "Operationcode",
+        "category": "React Front-end Work",
+        "image": "operationcode.jpg",
+        "url": "http://www.operationcode.org"
+      },
+
+      {
+        "title": "pandashop",
+        "category": "React Front-end Work",
+        "image": "pandashop.jpg",
+        "url": "https://samimalmamuncse.github.io/panda-commerce-bootstrap/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
