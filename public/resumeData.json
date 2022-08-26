@@ -9,10 +9,10 @@
     "email": "starwolf0320@gmail.com",
     "phone": "+1(940) 202 0709",
     "address": {
-      "street": "Nishishimbashi",
-      "city": "Tokyo",
-      "state": "Japan",
-      "zip": "105-0003"
+      "street": "Dallas",
+      "city": "TX",
+      "state": "USA",
+      "zip": "75202"
     },
 
     "social": [
@@ -27,12 +27,6 @@
         "name": "github",
         "url": "http://github.com/StarWolf19950320",
         "className": "fa fa-github"
-      },
-
-      {
-        "name": "github",
-        "url": "http://github.com/StarWolf19950320",
-        "className": "fa fa-google"
       }
     ]
   },
